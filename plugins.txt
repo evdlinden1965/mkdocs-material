@@ -1,0 +1,9 @@
+mkdocs-minify-plugin
+mkdocs-include-markdown-plugin
+mkdocs-glightbox
+mkdocs-macros-plugin
+mkdocs-print-site-plugin
+mkdocs-monorepo-plugin
+mkdocs-drawio
+mkdocs-table-reader-plugin
+openpyxl
